@@ -30,7 +30,7 @@
 
 void test01()
 {
-   std::string file_name("/home/cse220/build/release/run/image.bmp");
+   std::string file_name("./image.bmp");
 
    bitmap_image image(file_name);
 
@@ -45,7 +45,7 @@ void test01()
 
 void test02()
 {
-   std::string file_name("image.bmp");
+   std::string file_name("./image.bmp");
 
    bitmap_image image(file_name);
 
@@ -67,7 +67,7 @@ void test02()
 
 void test03()
 {
-   std::string file_name("image.bmp");
+   std::string file_name("./image.bmp");
 
    bitmap_image image(file_name);
 
@@ -93,7 +93,7 @@ void test03()
 
 void test04()
 {
-   std::string file_name("image.bmp");
+   std::string file_name("./image.bmp");
 
    bitmap_image image(file_name);
 
@@ -119,7 +119,7 @@ void test04()
 
 void test05()
 {
-   std::string file_name("image.bmp");
+   std::string file_name("./image.bmp");
 
    bitmap_image image(file_name);
 
@@ -147,7 +147,7 @@ void test05()
 
 void test06()
 {
-   std::string file_name("image.bmp");
+   std::string file_name("./image.bmp");
 
    bitmap_image image(file_name);
 
@@ -172,7 +172,7 @@ void test06()
 
 void test07()
 {
-   std::string file_name("image.bmp");
+   std::string file_name("./image.bmp");
 
    bitmap_image image(file_name);
 
@@ -188,7 +188,7 @@ void test07()
 
 void test08()
 {
-   std::string file_name("image.bmp");
+   std::string file_name("./image.bmp");
 
    bitmap_image image(file_name);
 
@@ -306,7 +306,7 @@ void test093()
 
 void test10()
 {
-   std::string file_name("image.bmp");
+   std::string file_name("./image.bmp");
 
    bitmap_image image(file_name);
 
@@ -322,7 +322,7 @@ void test10()
 
 void test11()
 {
-   std::string file_name("image.bmp");
+   std::string file_name("./image.bmp");
 
    bitmap_image image(file_name);
 
@@ -341,7 +341,7 @@ void test11()
 
 void test12()
 {
-   std::string file_name("image.bmp");
+   std::string file_name("./image.bmp");
 
    bitmap_image image(file_name);
 
@@ -372,7 +372,7 @@ void test12()
 
 void test13()
 {
-   std::string file_name("image.bmp");
+   std::string file_name("./image.bmp");
 
    bitmap_image image(file_name);
 
